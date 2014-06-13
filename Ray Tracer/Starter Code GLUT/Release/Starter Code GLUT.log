@@ -1,0 +1,161 @@
+﻿生成启动时间为 6/13/2014 9:44:24 AM。
+     1>项目“C:\Users\shijingliu\Dropbox\All the courses at Penn\CIS 560\Ray Tracer - Submission Copy\Starter Code GLUT\Starter Code GLUT.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\Starter Code GLUT.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Tree.cpp main.cpp
+         Tree.cpp
+     1>Tree.cpp(32): warning C4018: “<”: 有符号/无符号不匹配
+     1>Tree.cpp(61): warning C4018: “<”: 有符号/无符号不匹配
+     1>Tree.cpp(72): warning C4018: “<”: 有符号/无符号不匹配
+     1>Tree.cpp(84): warning C4018: “<”: 有符号/无符号不匹配
+     1>Tree.cpp(105): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>Tree.cpp(110): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>Tree.cpp(112): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>Tree.cpp(120): warning C4018: “<”: 有符号/无符号不匹配
+     1>Tree.cpp(132): warning C4018: “<”: 有符号/无符号不匹配
+     1>Tree.cpp(140): warning C4018: “<”: 有符号/无符号不匹配
+     1>Tree.cpp(169): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>Tree.cpp(174): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>Tree.cpp(176): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>Tree.cpp(188): warning C4018: “<”: 有符号/无符号不匹配
+         main.cpp
+     1>main.cpp(310): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(313): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(316): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(319): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(322): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(325): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(343): warning C4018: “>”: 有符号/无符号不匹配
+     1>main.cpp(378): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(413): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(110) : 参见“strcpy”的声明
+     1>main.cpp(416): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(115) : 参见“strcat”的声明
+     1>main.cpp(417): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(115) : 参见“strcat”的声明
+     1>main.cpp(431): warning C4305: “参数”: 从“double”到“float”截断
+     1>main.cpp(529): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(575): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(576): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(577): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(581): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(582): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(586): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(587): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(588): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(628): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(629): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(630): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(634): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(635): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(639): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(640): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(641): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(658): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(659): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(660): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(661): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(664): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(665): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(666): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(667): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(696): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(697): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(701): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(702): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(730): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(731): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(732): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(733): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(1290): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>main.cpp(1354): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(1355): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(1356): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(1378): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1382): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1387): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1413): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(1414): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(1415): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(1427): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(1428): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1429): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(1440): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(1441): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(1442): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(1452): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1454): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1485): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1486): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1487): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1495): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1496): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1497): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1510): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(1511): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(1512): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(1535): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1544): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1545): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1546): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1548): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1549): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1550): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1554): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1555): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1556): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1558): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1560): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1564): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1565): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1566): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1568): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1569): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1570): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1579): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(1580): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(1581): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(1603): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1605): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1637): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1640): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1642): warning C4305: “=”: 从“double”到“float”截断
+     1>main.cpp(1650): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(1652): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(1654): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(1664): warning C4018: “<”: 有符号/无符号不匹配
+     1>main.cpp(1685): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(1769): warning C4244: “=”: 从“float”转换到“ebmpBYTE”，可能丢失数据
+     1>main.cpp(1770): warning C4244: “=”: 从“float”转换到“ebmpBYTE”，可能丢失数据
+     1>main.cpp(1771): warning C4244: “=”: 从“float”转换到“ebmpBYTE”，可能丢失数据
+     1>main.cpp(1793): warning C4018: “<”: 有符号/无符号不匹配
+     1>main.cpp(1810): warning C4018: “<”: 有符号/无符号不匹配
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\shijingliu\Dropbox\All the courses at Penn\CIS 560\Ray Tracer - Submission Copy\Release\Starter Code GLUT.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:../freeglut/lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\shijingliu\Dropbox\All the courses at Penn\CIS 560\Ray Tracer - Submission Copy\Release\Starter Code GLUT.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\shijingliu\Dropbox\All the courses at Penn\CIS 560\Ray Tracer - Submission Copy\Release\Starter Code GLUT.lib" /MACHINE:X86 /SAFESEH Release\Cabinet.obj
+         Release\Chair.obj
+         Release\EasyBMP.obj
+         Release\Face.obj
+         Release\Floor.obj
+         Release\Furniture.obj
+         Release\glew.obj
+         Release\Lamp.obj
+         Release\main.obj
+         Release\Mesh.obj
+         Release\Node.obj
+         Release\RayIntersection.obj
+         Release\Table.obj
+         Release\Tree.obj
+         正在生成代码
+         已完成代码的生成
+         Starter Code GLUT.vcxproj -> C:\Users\shijingliu\Dropbox\All the courses at Penn\CIS 560\Ray Tracer - Submission Copy\Release\Starter Code GLUT.exe
+       FinalizeBuildStatus:
+         正在删除文件“Release\Starter Code GLUT.unsuccessfulbuild”。
+         正在对“Release\Starter Code GLUT.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\shijingliu\Dropbox\All the courses at Penn\CIS 560\Ray Tracer - Submission Copy\Starter Code GLUT\Starter Code GLUT.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.44
