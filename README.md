@@ -3,7 +3,6 @@ CIS-560-Ray-Tracer
 I created ray tracer project using C++ and OpenGL. 
 The ray tracer was completed by:
 1. Implemented rotation and translation of different types of geometries.
-
 2. Implemented intersection units for unit objects, include sphere, cube and cylinder. 
 
 3. Implemented ray tracing algorithm by sending a ray from the eye through all objects in the scene (less than 5 recursion depth)
