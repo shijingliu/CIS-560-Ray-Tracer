@@ -7,5 +7,5 @@ The ray tracer was completed by:
 3. Implemented ray tracing algorithm by sending a ray from the eye through all objects in the scene (less than 5 recursion depth)
 4. Added direct illumination and shadows. 
 5. Added specular reflections by sending reflected rays into the scene. 
-6. Composited the data from different light and represented them in terms of RGB value in each pixel. 
+6. Composited the data from different light and represented them in terms of RGB value in each pixel.  
 
