@@ -9,3 +9,4 @@ The ray tracer was completed by:
 5. Added specular reflections by sending reflected rays into the scene. 
 6. Composited the data from different light and represented them in terms of RGB value in each pixel.  
 
+ 
